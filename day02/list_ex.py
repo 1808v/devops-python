@@ -1,5 +1,5 @@
 list_of_name = list() #1 
-#list_of_envs = []
+list_of_envs = []
 
 list_of_cloud_servs = list(["aws","azure","gcp"])
 list_of_envs = ["dev", "stg","prd"]
